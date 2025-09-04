@@ -8,4 +8,4 @@ Hopefully, you have already set up your account at [Cyber@Stout Single Sign-On](
 
 Once you have your account set up, please head over to:
 
-**[Setting up the VPN](getting-started/setup-vpn.md)**
+**[Setting up the VPN](guides/How to Access Environment.md)**
