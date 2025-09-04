@@ -1,0 +1,62 @@
+site_name: Cyber@Stout Wiki
+copyright: CC-BY - Copyright &copy; 2024 Collegiate Cyber Defense Club
+repo_url: https://github.com/UWStout-CCDC/Env-Docs
+repo_name: UWStout-CCDC/Env-Docs
+edit_uri: edit/main/docs/
+site_url: https://help.cyberstout.org/
+dev_url: 127.0.0.1:8000
+
+theme:
+  name: material
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  features:
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - content.action.edit
+    - content.action.view
+  palette:
+  - media: "(prefers-color-scheme)"
+    toggle:
+      icon: material/brightness-auto
+      name: Switch to light mode
+
+  # Palette toggle for light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: black
+    accent: amber
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+
+  # Palette toggle for dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: black
+    accent: amber
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - User Guides:
+      - "Accessing the Environment": "guides/How to Access Environment.md"
+
+#extra_css:
+#  - stylesheets/extra.css
+plugins:
+  - glightbox
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          # format: !!python/name:pymdownx.superfences.fence_code_format
