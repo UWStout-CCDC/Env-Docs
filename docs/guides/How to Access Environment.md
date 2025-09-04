@@ -2,7 +2,7 @@
 
 ## Step 1: Install OpenVPN Client
 
-1. Go to the [OpenVPN Downloads Page](https://openvpn.net/community-downloads/)
+1. Go to the [OpenVPN Downloads Page](https://openvpn.net/client/)
 2. Download the appropriate installer for your operating system.
 3. Run the installer and follow the on-screen instructions to complete the installation.
 
