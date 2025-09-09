@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective Date:** 9/9/2025
+**Effective Date:** September 9, 2025
 
 Welcome to **Cyber@Stout SSO** ("we", "our", or "us"). These Terms of Service ("Terms") govern your access to and use of the Cyber@Stout Single Sign-On platform and all related services, tools, and resources (collectively, the "Service").
 
