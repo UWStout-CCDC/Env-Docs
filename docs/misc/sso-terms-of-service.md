@@ -68,6 +68,8 @@ We collect the following personal information:
 
 This information is stored securely in an authentication database and used solely to facilitate your access to Cyber@Stout applications.
 
+A seperate **Privacy Policy** is defined [Here](misc/sso-privacy-policy.md)
+
 A separate **Privacy Policy** is in development and will be made available in the future. Until then, your data will be handled with reasonable care and only within the scope of platform use.
 
 ---
